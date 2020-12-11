@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Action编译OpenWrt
+name: Action编译Lean OpenWrt
 
 on:
   repository_dispatch:
