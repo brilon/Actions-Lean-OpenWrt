@@ -24,3 +24,9 @@ git clone https://github.com/pymumu/smartdns.git package/smartdns
 
 # Add a luci-app-smartdns
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git  package/luci-app-smartdns
+
+# Add a passwall depend	
+git clone https://github.com/kenzok8/small.git	
+
+# Add a passwall	
+git clone https://github.com/kenzok8/openwrt-packages.git
