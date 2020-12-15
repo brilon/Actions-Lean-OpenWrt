@@ -19,9 +19,6 @@
 # Add a luci theme
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git package/luci-theme-infinityfreedom
 
-# Add a smartdns
-git clone https://github.com/pymumu/smartdns.git package/smartdns
-
 # Add a luci-app-smartdns
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 
