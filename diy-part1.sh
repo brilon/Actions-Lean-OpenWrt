@@ -22,8 +22,5 @@ git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git pac
 # Add a luci-app-smartdns
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 
-# Add a passwall depend	
-git clone https://github.com/kenzok8/small.git package/small
-
 # Add a passwall	
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
