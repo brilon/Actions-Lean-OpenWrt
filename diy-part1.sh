@@ -18,9 +18,3 @@
 
 # Add a luci theme
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git package/luci-theme-infinityfreedom
-
-# Add a luci-app-smartdns
-git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
-
-# Add a passwall	
-git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
